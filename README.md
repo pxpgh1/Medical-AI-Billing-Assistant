@@ -48,19 +48,19 @@ npm run dev
 Note the backend is tested using vscode Thunder Client plugin.
 
 \- RAG
-![rag](./how_to_test_backend/rag.png)
+![rag](https://github.com/pxpgh1/Medical-AI-Billing-Assistant/blob/main/how_to_test_backend/rag.png)
 
 \- Signup
-![signup](./how_to_test_backend/signup.png)
+![signup](https://github.com/pxpgh1/Medical-AI-Billing-Assistant/blob/main/how_to_test_backend/signup.png)
 
 \- Signin
-![signin](./how_to_test_backend/signin.png)
+![signin](https://github.com/pxpgh1/Medical-AI-Billing-Assistant/blob/main/how_to_test_backend/signin.png)
 
 \- Profile
-![profile](./how_to_test_backend/profile.png)
+![profile](https://github.com/pxpgh1/Medical-AI-Billing-Assistant/blob/main/how_to_test_backend/profile.png)
 
 \- Bills
-![bills](./how_to_test_backend/bills.png)
+![bills](https://github.com/pxpgh1/Medical-AI-Billing-Assistant/blob/main/how_to_test_backend/bills.png)
 
 \- Bill Details
-![billdetails](./how_to_test_backend/billdetails.png)
+![billdetails](https://github.com/pxpgh1/Medical-AI-Billing-Assistant/blob/main/how_to_test_backend/billdetails.png)
