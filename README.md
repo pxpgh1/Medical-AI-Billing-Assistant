@@ -48,19 +48,19 @@ npm run dev
 Note the backend is tested using vscode Thunder Client plugin.
 
 \- RAG<br>
-![rag](./how_to_test_backend/rag.png)
+![rag](./how_to_test_backend/rag.PNG)
 
 \- Signup<br>
-![signup](./how_to_test_backend/signup.png)
+![signup](./how_to_test_backend/signup.PNG)
 
 \- Signin<br>
-![signin](./how_to_test_backend/signin.png)
+![signin](./how_to_test_backend/signin.PNG)
 
 \- Profile<br>
-![profile](./how_to_test_backend/profile.png)
+![profile](./how_to_test_backend/profile.PNG)
 
 \- Bills<br>
-![bills](./how_to_test_backend/bills.png)
+![bills](./how_to_test_backend/bills.PNG)
 
 \- Bill Details<br>
-![billdetails](./how_to_test_backend/billdetails.png)
+![billdetails](./how_to_test_backend/billdetails.PNG)
